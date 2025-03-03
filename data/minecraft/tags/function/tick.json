@@ -1,0 +1,5 @@
+{
+    "values": [
+        "core:main","core:mechanics/setting_limit","commands:tick"
+ ]
+}

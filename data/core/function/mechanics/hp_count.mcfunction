@@ -1,0 +1,2 @@
+execute if score Hp_Count settings_hide matches 2 run effect give @a[team=Hider] minecraft:health_boost 9999 1 true
+execute if score Hp_Count settings_hide matches 3 run effect give @a[team=Hider] minecraft:health_boost 9999 4 true

@@ -1,0 +1,1 @@
+function core:game/end_of_game
